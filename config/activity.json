@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "ZantusR",
+      "uniqueId": "48dad32e-e94a-455b-9d33-d8fd2301efb8"
+    },
+    "time": 1660421974788,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/73QNsrQI3R"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ZantusR",
+      "uniqueId": "48dad32e-e94a-455b-9d33-d8fd2301efb8"
+    },
+    "time": 1660421912610,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/JbHruc2SWo"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ZantusR",
+      "uniqueId": "48dad32e-e94a-455b-9d33-d8fd2301efb8"
+    },
+    "time": 1660421621409,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/fkYx1uTk2q"
+    }
+  }
+]

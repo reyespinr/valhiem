@@ -1,0 +1,19 @@
+#Sun Aug 14 03:04:24 SGT 2022
+shaderPack=SEUS-Renewed-v1.0.1-Shaders-Minesters.zip
+antialiasingLevel=0
+normalMapEnabled=true
+specularMapEnabled=false
+renderResMul=1.0
+shadowResMul=1.0
+handDepthMul=0.125
+cloudShadow=true
+oldHandLight=default
+oldLighting=true
+tweakBlockDamage=false
+shadowClipFrustrum=true
+TexMinFilB=0
+TexMinFilN=0
+TexMinFilS=0
+TexMagFilB=0
+TexMagFilN=0
+TexMagFilS=0

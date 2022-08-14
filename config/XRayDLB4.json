@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "XRay": {
+      "render": true,
+      "blocks": {}
+    },
+    "Cave Finder": {
+      "render": false,
+      "blocks": {
+        "block.minecraft.lava": true,
+        "block.minecraft.netherrack": true,
+        "block.minecraft.chest": true,
+        "block.minecraft.torch": true,
+        "block.minecraft.stone": true
+      }
+    }
+  },
+  "localization": {},
+  "coordinates": "$d{FPS} fps\n$aXYZ: {X} / {Y} / {Z}\n$c{Fly}",
+  "xrayEnabled": true,
+  "coordsEnabled": true,
+  "useAlternativeFly": false,
+  "zoomEnabled": true
+}
